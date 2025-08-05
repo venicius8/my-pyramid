@@ -6,10 +6,10 @@ for (let i = 0; i < count; i++) {
   rows.push(char.repeat(i + 1));
 }
 
-let test = "";
+let result = "";
 
 for (const row of rows) {
-  test += row + "\n";
+  result += row + "\n";
 }
 
-console.log(test);
+console.log(result);
