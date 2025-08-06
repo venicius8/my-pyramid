@@ -2,12 +2,22 @@
 
 ## Descrição
 
-Este é o meu primeiro dia no #100DaysOfCode e logo iniciei um desafio de criar uma pirâmide.
+Estou seguindo o #100DaysOfCode e estou criando novos código para minha jornada ser aceita neste desafio.
 
-## O que aprendi
+## Desafios
 
-Apesar de ser simples, esse desafio de criar uma pirâmide foi bem difícil, pois mal usava conceitos como `for (... of ...)` e `push()`. Mas com o freeCodeCamp eu entendi perfeitamente toda a estrutura, além de se familiarizar com os conceitos anteriores.
+### Pyramid
+
+Como propriamente dito, é um script onde cria um triângulo conforme o número da base, dentro no terminal.
+
+### Squared Area
+
+Um mini projeto improvisado para consolidar o meu aprendizado do curso, que basicamente faz uma área quadrada com hash.
 
 ## Daqui para frente
 
-Continuarei a implementar novas funcionalidades para a pirâmide se tornar mais realista e aceito.
+Continuarei a implementar novas funcionalidades e criar novos mini projetos para o desafio se tornar mais interessante e aceito.
+
+## Observações
+
+O título do desafio está como "myPyramid", pois não planejava criar mais de um tipo de pirâmide, então, há diferentes tipos de códigos aqui.
