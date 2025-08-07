@@ -1,9 +1,9 @@
 const char = "#";
-const count = 10;
+const count = 6;
 const rows = [];
 
-for (let i = 0; i < count; i++) {
-  rows.push(char.repeat(i + 1));
+for (let i = 1; i <= count; i++) {
+  rows.push(" ".repeat(count - i) + char.repeat(i + i - 1));
 }
 
 let result = "";
